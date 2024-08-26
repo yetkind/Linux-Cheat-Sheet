@@ -150,9 +150,7 @@ It includes basic commands, file management, process control, network management
 | Command | Description |
 | ------- | ----------- |
 | `tar -cvf [archive.tar] [file/dir]` | Create a tar archive. |
-| `tar -xvf [archive.tar]` | Extract
-
- a tar archive. |
+| `tar -xvf [archive.tar]` | Extract a tar archive. |
 | `tar -czvf [archive.tar.gz] [file/dir]` | Create a gzipped tar archive. |
 | `tar -xzvf [archive.tar.gz]` | Extract a gzipped tar archive. |
 
